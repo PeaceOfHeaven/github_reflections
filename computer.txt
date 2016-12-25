@@ -1,0 +1,1 @@
+Computer is stupid, as a programmer we have to write instructions to help computer understand what we need it to do
